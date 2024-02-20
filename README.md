@@ -1,3 +1,5 @@
+You can see the DEMO of the project by following [LINK](https://emilionila.github.io/vue-products-logic/)
+
 # vue-project-products
 
 This template should help get you started developing with Vue 3 in Vite.
